@@ -21,10 +21,10 @@ El usuario puede seleccionar una opción del menú y convertir un monto de una m
 
 Este proyecto se desarrolló con:
 
-- **Java 11 o superior**
+- **Java 17 o superior**
 - **Maven** como gestor de dependencias
 - **Gson** para leer y procesar archivos JSON
 - **HttpClient** para conectarse a la API
-- **IntelliJ IDEA** como entorno de desarrollo (opcional)
-- **Postman** para pruebas (opcional)
+- **IntelliJ IDEA** como entorno de desarrollo
+- **Postman** para pruebas
 
